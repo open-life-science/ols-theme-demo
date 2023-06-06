@@ -1,2 +1,2 @@
 tasks:
-  - init: make bundle-install
+  - init: bundle install
